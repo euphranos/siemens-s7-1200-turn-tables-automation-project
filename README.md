@@ -2,6 +2,10 @@
 
 This project simulates a sequential turn table system developed using Siemens S7-1200 PLC and TIA Portal. The simulation is performed in Factory IO.
 
+## Video Demonstration
+
+[Project Video - YouTube](https://www.youtube.com/watch?v=qzxHI_rYkD4)
+
 ## Project Overview
 
 
@@ -25,6 +29,4 @@ This project simulates a sequential turn table system developed using Siemens S7
 3. Load the appropriate scenario in Factory IO and establish a connection with the PLC.
 4. Start the simulation and observe the sequential operation of the turn tables.
 
-## Video Demonstration
 
-[Project Video - YouTube](https://www.youtube.com/watch?v=qzxHI_rYkD4)
